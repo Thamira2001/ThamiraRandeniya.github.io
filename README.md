@@ -44,5 +44,5 @@ In order, to follow the guide you need:
 +  A special thanks to Github Pages community and MArkdown language syntax docs along with Youtuber Covalence for providing me with enough knowledge to create this guide.
 
 ## FAQs
-1. "Why is Markdown better than a word processor?"
-2. "Why is my resume not showing up?"
+1. "Why is Markdown better than a word processor?" It light weight and easier to read and write and undertsand 
+3. "Why is my resume not showing up?" After a uploading and publishing on github pages it takes a while to upload and publish 
